@@ -3,7 +3,7 @@
 > This repository implements and optimizes the hybrid machine learning pipeline inspired by the original paper.
 
 ## Reference Paper
-* **Original Paper:** "[EEG-Based ADHD Diagnosis Using Autoencoder and Reptile Search Algorithm Integrated with Machine Learning]"
+* **Original Paper:** [EEG-Based ADHD Diagnosis Using Autoencoder and Reptile Search Algorithm Integrated with Machine Learning]
 * **DOI:** [10.1177/15500594251390030]
 * **Link:** [https://pubmed.ncbi.nlm.nih.gov/41160507/]
 
